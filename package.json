@@ -1,0 +1,25 @@
+{
+  "name": "agar-socket-io",
+  "version": "1.0.0",
+  "description": "Agar io  clone with Socket io",
+  "main": "servers.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nitish21/agar-socket-io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nitish21/agar-socket-io/issues"
+  },
+  "homepage": "https://github.com/nitish21/agar-socket-io#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "helmet": "^3.21.2",
+    "socket.io": "^2.3.0"
+  }
+}
