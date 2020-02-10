@@ -6,6 +6,7 @@ Agar io  clone with Socket io
 # Steps to create and run docker image:
 
 docker build -t nitish213/agar-io-clone .
+
 docker run -p 8080:8080 nitish213/agar-io-clone
 
 docker-machine ip
